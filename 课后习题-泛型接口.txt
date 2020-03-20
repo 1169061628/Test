@@ -1,3 +1,4 @@
+//演示Fork功能
 https://www.csdn.net/gather_28/NtDacg3sNC1ibG9n.html
 习题一：泛型接口定义完成之后，就要定义此接口的子类。定义泛型接口的子类有以下两种方法。
 (1)直接在子类后声明泛型。
